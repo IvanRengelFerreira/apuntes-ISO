@@ -1,0 +1,1 @@
+Una historia o visión compartida de cómo funciona el sistema para que todos (técnicos y clientes) usen el mismo lenguaje (ej: "esto funciona como una cadena de montaje").

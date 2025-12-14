@@ -1,0 +1,1 @@
+Mejorar el diseño del código sin cambiar su comportamiento. Solo es posible sin miedo gracias a que tienes pruebas (TDD) que te avisan si rompes algo

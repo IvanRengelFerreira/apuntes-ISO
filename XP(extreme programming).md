@@ -22,10 +22,10 @@ Equipos pequeños(10 personas) y orientada mas al codigo
 ## 12 Practicas de XP
 1. [[Juego de planificación]]
 2. [[Small releases]]
-3. Metáfora
-4. Diseño simple
-5. Testing
-6. Refactor
+3. [[Metáfora]]
+4. [[Diseño simple]]
+5. [[Testing]]
+6. [[Refactor]]
 7. Pair programming
 8. Propiedad colectiva
 9. Integración continua
