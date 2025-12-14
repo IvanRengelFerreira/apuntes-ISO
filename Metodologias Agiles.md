@@ -19,3 +19,9 @@ El clientes es parte del equipo y es muy importante la interacción con ellos.
 8. Mantener ritmo constante para un desarrollo perdurable
 9. Atención continua a la calidad y el buen diseño da mayor agilidad
 10. Simplicidad
+11. Lo mejor surge de equipos autogestionados 
+12. El equipo reflexiona como ser eficaz y se ajusta
+
+![[Pasted image 20251214192940.png]]
+
+La que se usa en el curso fue [[XP(extreme programming)]]
