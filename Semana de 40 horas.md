@@ -1,0 +1,1 @@
+Exceso de trabajo es un sintoma claro de un problema de un 
