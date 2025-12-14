@@ -28,7 +28,7 @@ Equipos pequeños(10 personas) y orientada mas al codigo
 6. [[Refactor]]
 7. [[Pair programming]]
 8. [[Propiedad colectiva]]
-9. Integración continua
+9. [[Integración continua]]
 10. Semana de 40  horas
 11. Cliente en situ
 12. Estándares de coding
