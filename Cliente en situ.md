@@ -1,0 +1,1 @@
+El cliente real (o un representante con poder de decisión) se sienta con el equipo todo el tiempo para resolver dudas al instante .
