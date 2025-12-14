@@ -17,5 +17,5 @@ El clientes es parte del equipo y es muy importante la interacción con ellos.
 6. Dialogo cara a cara
 7. El SW que funciona es la medida principal de progreso
 8. Mantener ritmo constante para un desarrollo perdurable
-9. Atención continua a la calidad y el buen diseño
-10. 
+9. Atención continua a la calidad y el buen diseño da mayor agilidad
+10. Simplicidad
