@@ -20,8 +20,8 @@ Equipos pequeños(10 personas) y orientada mas al codigo
 
 
 ## 12 Practicas de XP
-1. Juego de planificación
-2. Small releases
+1. [[Juego de planificación]]
+2. [[Small releases]]
 3. Metáfora
 4. Diseño simple
 5. Testing
