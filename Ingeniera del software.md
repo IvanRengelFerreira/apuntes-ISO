@@ -5,4 +5,4 @@ Para el desarrollo de software se utilizan metodologías que dan el camino a seg
 [[Metodologias Clasicas]]
 [[Metodologias Agiles]]
 
-La diferencia fundamental entre estas dos es la adaptacion a los cambios. En las clasicas tienen pasos mas marcados por  lo que requiere  mas documentacion y no 
+La diferencia fundamental entre estas dos es la adaptación a los cambios. En las clásicas tienen pasos mas marcados por  lo que requiere  mas documentación y no tanto en entregar.
