@@ -26,7 +26,7 @@ Equipos pequeños(10 personas) y orientada mas al codigo
 4. [[Diseño simple]]
 5. [[Testing]]
 6. [[Refactor]]
-7. Pair programming
+7. [[Pair programming]]
 8. Propiedad colectiva
 9. Integración continua
 10. Semana de 40  horas
