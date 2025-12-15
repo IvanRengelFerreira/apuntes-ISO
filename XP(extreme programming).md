@@ -32,3 +32,8 @@ Equipos pequeños(10 personas) y orientada mas al codigo
 10. [[Semana de 40 horas]]
 11. [[ Cliente en situ]]
 12. [[Estándares de coding]]
+
+## [[Roles XP]]
+
+Durante el desarrollo todos los desarrolladores se van rotando diferentes gorras(roles). No hay roles fijos
+

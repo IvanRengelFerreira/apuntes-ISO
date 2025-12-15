@@ -25,3 +25,4 @@ El clientes es parte del equipo y es muy importante la interacción con ellos.
 ![[Pasted image 20251214192940.png]]
 
 La que se usa en el curso fue [[XP(extreme programming)]]
+
