@@ -9,5 +9,5 @@ La diferencia fundamental entre estas dos es la adaptación a los cambios. En la
 ![[Pasted image 20251214191317.png]]
 ![[Pasted image 20251214191331.png]]
 
-Una parte importante de [[XP(extreme programming)]] es el desarrollo basado en pruebas([[TDD]]). Cumple 
+Una parte importante de [[XP(extreme programming)]] es el desarrollo basado en pruebas([[TDD]]). Cumple perfectamente con lo que se necesita a la hora de aplicar el testing en XP. 
 
