@@ -7,6 +7,5 @@ En TDD **el test dicta el código**. Escribes la especificación (el test) y el 
 
 Estan los siguientes pasos pararealizar TDD:
 ![[Pasted image 20251215185639.png]]
+La primera fase de escribir un test es:
 [[1.Rojo]]
-[[2.Verde]]
-[[3.Refactor]]
