@@ -1,1 +1,1 @@
-Ayuda con las prueba
+Ayuda con las pruebas funcionales y se asegura que cumplan

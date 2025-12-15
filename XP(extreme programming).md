@@ -37,3 +37,6 @@ Equipos pequeños(10 personas) y orientada mas al codigo
 
 Durante el desarrollo todos los desarrolladores se van rotando diferentes gorras(roles). No hay roles fijos
 
+## Problemas que soluciona
+![[Pasted image 20251215184703.png]]
+

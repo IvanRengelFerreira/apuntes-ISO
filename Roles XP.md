@@ -4,6 +4,6 @@
 - [[Cliente]]
 - [[Programador]]
 - [[Tester]]
-- Tracker
-- Coach
-- Consultant
+- [[Tracker]]
+- [[Coach]]
+- [[Consultant]]
