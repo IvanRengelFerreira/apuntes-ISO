@@ -1,0 +1,1 @@
+Mejorar el rendimiento o añadir nuevas funcionalidades solicitadas por el usuario.

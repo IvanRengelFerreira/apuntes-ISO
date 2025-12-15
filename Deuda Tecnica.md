@@ -1,0 +1,1 @@
+El coste futuro acumulado por tomar atajos en el desarrollo (como no refactorizar o escribir mal código) para entregar rápido. Refactorizar "paga" esta deuda

@@ -1,0 +1,1 @@
+Modificar el software para adaptarse a cambios en el entorno (ej. nuevo sistema operativo, cambio de leyes).

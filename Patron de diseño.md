@@ -1,0 +1,1 @@
+Una solución probada a un problema común en un contexto específico. No es código, es una plantilla de solución.

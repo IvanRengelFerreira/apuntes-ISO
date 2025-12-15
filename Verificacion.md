@@ -1,0 +1,1 @@
+Determinar si una fase se completó correctamente ("¿Estamos construyendo el producto _correctamente_?")

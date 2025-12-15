@@ -1,0 +1,1 @@
+Reingeniería del software para hacerlo más mantenible en el futuro (evitar problemas antes de que ocurran).

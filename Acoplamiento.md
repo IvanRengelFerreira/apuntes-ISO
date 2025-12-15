@@ -1,0 +1,1 @@
+Medida de la dependencia entre distintos objetos. Buscamos que sea **bajo** (relaciones mínimas entre objetos) para facilitar cambios.

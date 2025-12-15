@@ -1,0 +1,1 @@
+Determinar si el producto final satisface los requisitos del usuario ("¿Estamos construyendo el producto _correcto_?")

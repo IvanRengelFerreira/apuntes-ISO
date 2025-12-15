@@ -1,0 +1,1 @@
+Corregir defectos (bugs) encontrados en el software.

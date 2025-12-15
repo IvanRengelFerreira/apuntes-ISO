@@ -1,0 +1,1 @@
+Medida de cuán relacionadas están las responsabilidades dentro de una misma clase u objeto. Buscamos que sea **alta** (relaciones máximas dentro del objeto)
